@@ -1,6 +1,6 @@
 # RecyclerWeek
 
-<img src="https://user-images.githubusercontent.com/7110339/54258549-0d1c6b80-4574-11e9-85b7-0f2ada7d3074.jpg" width="200" height="400">      <img src="https://user-images.githubusercontent.com/7110339/54177969-37532800-44a5-11e9-8d87-224309dbb403.jpg" width="200" height="400">     
+<img src="https://user-images.githubusercontent.com/7110339/54258549-0d1c6b80-4574-11e9-85b7-0f2ada7d3074.jpg" width="200" height="400">  
 <img src="https://user-images.githubusercontent.com/7110339/54258551-0d1c6b80-4574-11e9-9a5e-17a564e28a43.jpg" width="200" height="400">  
 
 ## Questions?🤔
